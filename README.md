@@ -1,0 +1,5 @@
+hellowrld
+
+-----------
+
+for phonegap
