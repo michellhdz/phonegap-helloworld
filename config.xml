@@ -4,10 +4,10 @@
 	id		= "com.sina.vdisklite"
 	version 	= "1.0.0">
 
-	<name>vdisklite</name>
+	<name>helloworld</name>
 
 	<description>
-		vdisklite for iOS,Android,Symbian,Blackberry,webOS. HomePage: http://vdisklite.sinaapp.com/
+		helloworld
 	</description>
 
 	<author href="http://vdisklite.sinaapp.com"
